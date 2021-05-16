@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello World"
-ecoh "Hello Wrong"
+echo "Hello Wrong"
