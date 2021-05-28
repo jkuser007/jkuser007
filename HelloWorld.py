@@ -1,4 +1,4 @@
 # This is python First Test HelloPython Script
 
 print("Hello Python World!...")
-prit("Fuck You")
+print("Fuck You")
